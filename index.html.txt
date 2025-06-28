@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>مزايا للتطوير العقاري</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>مزايا للتطوير العقاري</h1>
+    <nav>
+      <a href="#villas">فلل</a>
+      <a href="#apartments">شقق</a>
+      <a href="#lands">أراضي</a>
+    </nav>
+  </header>
+
+  <section id="villas">
+    <h2>فلل للبيع</h2>
+    <p>هنا تفاصيل الفلل المعروضة للبيع...</p>
+  </section>
+
+  <section id="apartments">
+    <h2>شقق للبيع</h2>
+    <p>هنا تفاصيل الشقق المعروضة للبيع...</p>
+  </section>
+
+  <section id="lands">
+    <h2>أراضي</h2>
+    <p>هنا تفاصيل الأراضي...</p>
+  </section>
+
+  <footer>
+    <p>📞 للتواصل: +966591205501</p>
+  </footer>
+</body>
+</html>
